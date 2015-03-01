@@ -1,0 +1,13 @@
+
+light green
+#89B151
+
+light pink
+#F4DDBE
+
+beige
+#715A38
+
+dark dark black
+#201A02 
+
